@@ -1,0 +1,8 @@
+---
+collections:
+
+roles:
+  - src: Tinyblargon.certbot
+    version: '1.0.0'
+  - src: Tinyblargon.docker_deploy
+    version: '1.5.0'
